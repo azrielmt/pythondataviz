@@ -9,3 +9,5 @@
 We'll use three libraries for this tutorial: pandas, matplotlib, and seaborn.
 
 Press "Fork" at the top-right of this screen to run this notebook yourself and build each of the examples."
+
+##### Had to fix errors regarding size and pandas.tools.plotting to pandas.plotting.
